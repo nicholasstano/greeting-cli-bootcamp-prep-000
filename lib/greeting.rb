@@ -6,5 +6,3 @@ def greeting(name)
   
 end
 
-name = gets.strip
-  greeting(name)
